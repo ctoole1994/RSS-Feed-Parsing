@@ -15,7 +15,11 @@ dataSources
 dist
 out
 .gradle
-gradleBuild
+build.gradle
+gradlew
+gradlew.bat
+settings.gradle
+gradle/wrapper
 build
 gradle.properties
 /gradle.properties
