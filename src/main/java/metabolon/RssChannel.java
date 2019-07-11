@@ -10,7 +10,6 @@ public class RssChannel {
     private String description;
     private String lastBuildDate;
 
-
     public String getTitle() {
         return title;
     }

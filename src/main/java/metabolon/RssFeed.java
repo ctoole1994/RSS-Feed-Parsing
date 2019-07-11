@@ -7,7 +7,6 @@ import javax.xml.bind.annotation.XmlRootElement;
 @XmlRootElement(name = "rss")
 public class RssFeed {
 
-
     private RssChannel channel;
 
     private String company;

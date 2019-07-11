@@ -1,12 +1,17 @@
 package metabolon;
 
-import javax.xml.bind.*;
+import javax.xml.bind.JAXBContext;
+import javax.xml.bind.JAXBException;
+import javax.xml.bind.Unmarshaller;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.time.LocalDateTime;
 import java.time.ZoneOffset;
 import java.time.format.DateTimeFormatter;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
 public class RssDictionaryParser {
 
@@ -17,22 +22,22 @@ public class RssDictionaryParser {
         unmarshaller = createUnmarshaller();
 
         if (unmarshaller != null) {
-            parseRssDictionaryForDays(getRssDictionary(), 3);
+            parseRssDictionaryForCompaniesWithoutActivity(getRssDictionary(), 3);
         }
     }
 
 
     public static Map<String, List<String>> getRssDictionary() {
         Map<String, List<String>> rssDictionary = new HashMap<>();
-        rssDictionary.put("NPR", Collections.singletonList("https://dianerehm.org/rss/npr/dr_podcast.xml"));
+        List<String> testURLS = new ArrayList<>();
+        testURLS.add("https://dianerehm.org/rss/npr/dr_podcast.xml");
+        rssDictionary.put("NPR", testURLS);
         return rssDictionary;
     }
 
-    public static void parseRssDictionaryForDays(Map<String, List<String>> rssDictionary, int days) {
+    public static void parseRssDictionaryForCompaniesWithoutActivity(Map<String, List<String>> rssDictionary, int days) {
 
-
-        List<RssFeed> rssFeedList = new ArrayList<>();
-
+        Map<String, List<RssFeed>> companyRssFeedMap = new HashMap<>();
 
         rssDictionary.forEach((company, rssUrlList) -> {
 
@@ -48,52 +53,46 @@ public class RssDictionaryParser {
                     e.printStackTrace();
                 }
 
-                rssFeedList.addAll(createRssFeeds(company, urlList));
+                companyRssFeedMap.put(company, createRssFeeds(company, urlList));
             });
         });
 
+        checkRssLastBuildDates(companyRssFeedMap, days);
+    }
 
-//        rssFeedList.forEach(rssFeed -> {
-//            System.out.println("RSS FEED: " + rssFeed.toString());
-//
-//            try {
-//                JAXBContext jc = JAXBContext.newInstance(RssFeed.class);
-//
-//                Marshaller marshaller = jc.createMarshaller();
-//                try {
-//                    marshaller.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, true);
-//                    marshaller.marshal(rssFeed, System.out);
-//                } catch (PropertyException e) {
-//                    e.printStackTrace();
-//                }
-//
-//            } catch (JAXBException e) {
-//                e.printStackTrace();
-//            }
-//        });
+    private static void checkRssLastBuildDates(Map<String, List<RssFeed>> companyRssFeedMap, int days) {
 
+        LocalDateTime withoutActivityDate = LocalDateTime.now(ZoneOffset.UTC).minusDays(days);
 
-        LocalDateTime updatedBeforeDate = LocalDateTime.now(ZoneOffset.UTC).minusDays(days);
+        List<String> companiesWithoutActivity = new ArrayList<>();
 
-        System.out.println("updatedBeforeDate is : " + updatedBeforeDate);
+        companyRssFeedMap.forEach((company, rssFeedList) -> {
 
-        List<RssFeed> validFeeds = new ArrayList<>();
+            int inactiveRssCounter = 0;
 
-        rssFeedList.forEach(rssFeed -> {
+            for (RssFeed rssFeed : rssFeedList) {
+                if (rssFeed.getChannel().getLastBuildDate() != null) {
 
-            if (rssFeed.getChannel().getLastBuildDate() != null) {
+                    LocalDateTime dateLastUpdated = LocalDateTime.parse(rssFeed.getChannel().getLastBuildDate(),
+                            DateTimeFormatter.RFC_1123_DATE_TIME.withZone(ZoneOffset.UTC));
 
-                LocalDateTime dateLastUpdated = LocalDateTime.parse(rssFeed.getChannel().getLastBuildDate(), DateTimeFormatter.RFC_1123_DATE_TIME.withZone(ZoneOffset.UTC));
-
-                System.out.println("dateLastUpdated is : " + dateLastUpdated);
-
-                if (dateLastUpdated.isBefore(updatedBeforeDate)) {
-                    validFeeds.add(rssFeed);
+                    if (dateLastUpdated.isBefore(withoutActivityDate)) {
+                        inactiveRssCounter++;
+                    }
                 }
+            }
+
+            if (rssFeedList.size() == inactiveRssCounter) {
+                companiesWithoutActivity.add(company);
             }
         });
 
-        validFeeds.forEach(rssFeed -> System.out.println(rssFeed.toString()));
+        printCompanies(companiesWithoutActivity, days);
+    }
+
+    private static void printCompanies(List<String> companies, int days) {
+        System.out.println("The following companies have at least one RSS feed without activity for " + days + " days:");
+        companies.forEach(System.out::println);
     }
 
     private static List<RssFeed> createRssFeeds(String company, List<URL> urlList) {
