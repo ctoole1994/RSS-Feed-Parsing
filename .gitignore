@@ -1,0 +1,21 @@
+# IntelliJ Files #
+##################
+*.iml
+*.ipr
+*.iws
+*.log
+*.ids
+.idea/
+.shelf
+.idea
+
+# Local Files and Directories #
+.ideaDatasources
+dataSources
+dist
+out
+.gradle
+gradleBuild
+build
+gradle.properties
+/gradle.properties
