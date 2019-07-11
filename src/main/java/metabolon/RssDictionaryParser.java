@@ -37,7 +37,7 @@ public class RssDictionaryParser {
 
     public static void parseRssDictionaryForCompaniesWithoutActivity(Map<String, List<String>> rssDictionary, int days) {
 
-        Map<String, List<RssFeed>> companyRssFeedMap = new HashMap<>();
+        Map<String, List<RssRoot>> companyRssFeedMap = new HashMap<>();
 
         rssDictionary.forEach((company, rssUrlList) -> {
 
@@ -60,7 +60,7 @@ public class RssDictionaryParser {
         checkRssLastBuildDates(companyRssFeedMap, days);
     }
 
-    private static void checkRssLastBuildDates(Map<String, List<RssFeed>> companyRssFeedMap, int days) {
+    private static void checkRssLastBuildDates(Map<String, List<RssRoot>> companyRssFeedMap, int days) {
 
         LocalDateTime withoutActivityDate = LocalDateTime.now(ZoneOffset.UTC).minusDays(days);
 
@@ -70,10 +70,10 @@ public class RssDictionaryParser {
 
             int inactiveRssCounter = 0;
 
-            for (RssFeed rssFeed : rssFeedList) {
-                if (rssFeed.getChannel().getLastBuildDate() != null) {
+            for (RssRoot rssRoot : rssFeedList) {
+                if (rssRoot.getChannel().getLastBuildDate() != null) {
 
-                    LocalDateTime dateLastUpdated = LocalDateTime.parse(rssFeed.getChannel().getLastBuildDate(),
+                    LocalDateTime dateLastUpdated = LocalDateTime.parse(rssRoot.getChannel().getLastBuildDate(),
                             DateTimeFormatter.RFC_1123_DATE_TIME.withZone(ZoneOffset.UTC));
 
                     if (dateLastUpdated.isBefore(withoutActivityDate)) {
@@ -95,31 +95,31 @@ public class RssDictionaryParser {
         companies.forEach(System.out::println);
     }
 
-    private static List<RssFeed> createRssFeeds(String company, List<URL> urlList) {
+    private static List<RssRoot> createRssFeeds(String company, List<URL> urlList) {
 
-        List<RssFeed> rssFeedList = new ArrayList<>();
+        List<RssRoot> rssRootList = new ArrayList<>();
 
         urlList.forEach(url -> {
             try {
-                RssFeed rssFeed = (RssFeed) unmarshaller.unmarshal(url);
-                rssFeed.setCompany(company);
-                rssFeedList.add(rssFeed);
+                RssRoot rssRoot = (RssRoot) unmarshaller.unmarshal(url);
+                rssRoot.setCompany(company);
+                rssRootList.add(rssRoot);
             } catch (JAXBException e) {
-                System.out.println("Error unmarshalling XML to RssFeed.class.");
+                System.out.println("Error unmarshalling XML to RssRoot.class.");
                 e.printStackTrace();
             }
         });
 
-        return rssFeedList;
+        return rssRootList;
     }
 
     private static Unmarshaller createUnmarshaller() {
 
         try {
-            JAXBContext jaxbContext = JAXBContext.newInstance(RssFeed.class);
+            JAXBContext jaxbContext = JAXBContext.newInstance(RssRoot.class);
             return jaxbContext.createUnmarshaller();
         } catch (JAXBException e) {
-            System.out.println("Error creating Unmarshaller for RssFeed.class.");
+            System.out.println("Error creating Unmarshaller for RssRoot.class.");
             e.printStackTrace();
         }
 

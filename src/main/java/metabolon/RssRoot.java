@@ -5,7 +5,7 @@ import javax.xml.bind.annotation.XmlRootElement;
 
 
 @XmlRootElement(name = "rss")
-public class RssFeed {
+public class RssRoot {
 
     private RssChannel channel;
 
@@ -30,7 +30,7 @@ public class RssFeed {
 
     @Override
     public String toString() {
-        return "RssFeed{" +
+        return "RssRoot{" +
                 "company='" + company + '\'' +
                 ", channel=" + channel +
                 '}';
