@@ -32,6 +32,7 @@ public class RssDictionaryParser {
 
     /**
      * This method returns a sample dictionary that would be coming from an external source
+     *
      * @return The RSS dictionary for the function
      */
     public static Map<String, List<String>> getRssDictionary() {
@@ -44,6 +45,7 @@ public class RssDictionaryParser {
 
     /**
      * This method parses and prints the companies that meet the inactivity criteria
+     *
      * @param rssDictionary The RSS Dictionary keyed by company and valued by RSS URL list in string form
      * @param days          The number of days that the companies' RSS feeds do not have any activity
      */
@@ -81,6 +83,7 @@ public class RssDictionaryParser {
      * This method compares the dateLastUpdated in the RssChannel object to the specified number of days
      * without activity for a company. If all RSS feeds for a company do not have activity, the company does not
      * have any activity.
+     *
      * @param companyRssFeedMap RSS dictionary keyed by company and valued by RssRoot object
      * @param days              The number of days that the companies' RSS feeds do not have any activity
      */
@@ -116,6 +119,7 @@ public class RssDictionaryParser {
 
     /**
      * This method prints the list of companies that do not have any activity
+     *
      * @param companies List of companies to print
      * @param days      The number of days that the companies' RSS feeds do not have any activity
      */
@@ -126,6 +130,7 @@ public class RssDictionaryParser {
 
     /**
      * This method creates RssRoot objects by unmarshalling the XML URLs
+     *
      * @param company Name of company
      * @param urlList RSS feeds as URL objects
      * @return List of RssRoot objects which have been unmarshalled from the XML URLs and contain RSS tag values
@@ -149,6 +154,7 @@ public class RssDictionaryParser {
 
     /**
      * This method creates an Unmarshaller object used to parse the RSS XML
+     *
      * @return Unmarshaller object created from RssRoot class
      */
     private static Unmarshaller createUnmarshaller() {
