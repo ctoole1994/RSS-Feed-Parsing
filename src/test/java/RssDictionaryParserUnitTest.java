@@ -5,7 +5,6 @@ import java.io.ByteArrayOutputStream;
 import java.io.File;
 import java.io.PrintStream;
 import java.net.MalformedURLException;
-import java.net.URL;
 import java.util.*;
 
 import static org.junit.Assert.assertEquals;
@@ -13,13 +12,13 @@ import static org.junit.Assert.assertTrue;
 
 public class RssDictionaryParserUnitTest {
 
-    @Test (expected = IllegalArgumentException.class)
+    @Test(expected = IllegalArgumentException.class)
     public void testParseWithNegativeDays() {
         Map<String, List<String>> rssDictionary = new HashMap<>();
         List<String> testURLS = new ArrayList<>();
         testURLS.add("URL");
         rssDictionary.put("NPR", testURLS);
-        RssDictionaryParser.parseRssDictionaryForCompaniesWithoutActivity(rssDictionary,-5);
+        RssDictionaryParser.parseRssDictionaryForCompaniesWithoutActivity(rssDictionary, -5);
     }
 
     @Test
@@ -34,8 +33,7 @@ public class RssDictionaryParserUnitTest {
         System.setOut(new PrintStream(outContent));
 
 
-
-        RssDictionaryParser.parseRssDictionaryForCompaniesWithoutActivity(rssDictionary,3);
+        RssDictionaryParser.parseRssDictionaryForCompaniesWithoutActivity(rssDictionary, 3);
         String testString = "The following companies' RSS feeds have not had activity in 3 days:"
                 + System.lineSeparator() + "WSJ" + System.lineSeparator();
         assertEquals(testString, outContent.toString());
@@ -57,7 +55,7 @@ public class RssDictionaryParserUnitTest {
         ByteArrayOutputStream outContent = new ByteArrayOutputStream();
         System.setOut(new PrintStream(outContent));
 
-        RssDictionaryParser.parseRssDictionaryForCompaniesWithoutActivity(rssDictionary,3);
+        RssDictionaryParser.parseRssDictionaryForCompaniesWithoutActivity(rssDictionary, 3);
 
         String testString = "The following companies' RSS feeds have not had activity in 3 days:"
                 + System.lineSeparator() + "NYT" + System.lineSeparator();
@@ -79,7 +77,7 @@ public class RssDictionaryParserUnitTest {
         ByteArrayOutputStream outContent = new ByteArrayOutputStream();
         System.setOut(new PrintStream(outContent));
 
-        RssDictionaryParser.parseRssDictionaryForCompaniesWithoutActivity(rssDictionary,2);
+        RssDictionaryParser.parseRssDictionaryForCompaniesWithoutActivity(rssDictionary, 2);
 
         String testString = "The following companies' RSS feeds have not had activity in 2 days:"
                 + System.lineSeparator();
@@ -97,7 +95,7 @@ public class RssDictionaryParserUnitTest {
         ByteArrayOutputStream outContent = new ByteArrayOutputStream();
         System.setOut(new PrintStream(outContent));
 
-        RssDictionaryParser.parseRssDictionaryForCompaniesWithoutActivity(rssDictionary,3);
+        RssDictionaryParser.parseRssDictionaryForCompaniesWithoutActivity(rssDictionary, 3);
 
         String testString = "The following companies' RSS feeds have not had activity in 3 days:"
                 + System.lineSeparator();
@@ -106,7 +104,7 @@ public class RssDictionaryParserUnitTest {
     }
 
     @Test
-    public void testParseWithoutLastBuildDate() throws MalformedURLException{
+    public void testParseWithoutLastBuildDate() throws MalformedURLException {
 
         Map<String, List<String>> rssDictionary = new HashMap<>();
         rssDictionary.put("Planet Money", Collections.singletonList(new File("./src/test/resources/planetMoneyRssWithoutLastBuildDate.xml").toURI().toURL().toString()));
@@ -114,7 +112,7 @@ public class RssDictionaryParserUnitTest {
         ByteArrayOutputStream outContent = new ByteArrayOutputStream();
         System.setOut(new PrintStream(outContent));
 
-        RssDictionaryParser.parseRssDictionaryForCompaniesWithoutActivity(rssDictionary,3);
+        RssDictionaryParser.parseRssDictionaryForCompaniesWithoutActivity(rssDictionary, 3);
         String testString = "The following companies' RSS feeds have not had activity in 3 days:"
                 + System.lineSeparator();
         assertEquals(testString, outContent.toString());
