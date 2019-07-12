@@ -7,16 +7,17 @@ import com.openpojo.validation.rule.impl.SetterMustExistRule;
 import com.openpojo.validation.test.impl.GetterTester;
 import com.openpojo.validation.test.impl.SetterTester;
 import metabolon.RssChannel;
+import metabolon.RssRoot;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-public class RssChannelUnitTest {
+public class RssRootUnitTest {
 
     @Test
     public void testGetters() {
 
-        PojoClass rssChannel = PojoClassFactory.getPojoClass(RssChannel.class);
+        PojoClass rssRoot = PojoClassFactory.getPojoClass(RssRoot.class);
 
         Validator validator = ValidatorBuilder
                 .create()
@@ -24,13 +25,13 @@ public class RssChannelUnitTest {
                 .with(new GetterTester())
                 .build();
 
-        validator.validate(rssChannel);
+        validator.validate(rssRoot);
     }
 
     @Test
     public void testSetters() {
 
-        PojoClass rssChannel = PojoClassFactory.getPojoClass(RssChannel.class);
+        PojoClass rssRoot = PojoClassFactory.getPojoClass(RssRoot.class);
 
         Validator validator = ValidatorBuilder
                 .create()
@@ -38,11 +39,13 @@ public class RssChannelUnitTest {
                 .with(new SetterTester())
                 .build();
 
-        validator.validate(rssChannel);
+        validator.validate(rssRoot);
     }
 
     @Test
     public void testToString() {
+
+        RssRoot rssRoot = new RssRoot();
 
         RssChannel rssChannel = new RssChannel();
         rssChannel.setLink("LINK");
@@ -50,13 +53,12 @@ public class RssChannelUnitTest {
         rssChannel.setDescription("DESCRIPTION");
         rssChannel.setLastBuildDate("DATE");
 
-        String testString = "RssChannel{" +
-                "title='" + "TITLE" + '\'' +
-                ", link='" + "LINK" + '\'' +
-                ", description='" + "DESCRIPTION" + '\'' +
-                ", lastBuildDate='" + "DATE" + '\'' +
+        rssRoot.setChannel(rssChannel);
+
+        String testString = "RssRoot{" +
+                "channel=" + rssChannel +
                 '}';
 
-        assertEquals(testString, rssChannel.toString());
+        assertEquals(testString, rssRoot.toString());
     }
 }
