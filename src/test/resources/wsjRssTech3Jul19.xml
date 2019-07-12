@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:wsj="http://dowjones.net/rss/" xmlns:dj="http://dowjones.net/rss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>WSJ.com: WSJD</title>
+<link>http://online.wsj.com</link>
+<atom:link type="application/rss+xml" rel="self" href="http://online.wsj.com"/>
+<description>WSJD - Technology</description>
+<language>en-us</language>
+<pubDate>Thu, 11 Jul 2019 23:11:46 -0400</pubDate>
+<lastBuildDate>Wed, 3 Jul 2019 23:11:46 -0400</lastBuildDate>
+<copyright>Dow Jones &amp; Company, Inc.</copyright>
+<generator>http://online.wsj.com</generator>
+<docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+<image>
+<title>WSJ.com: WSJD</title>
+<link>http://online.wsj.com</link>
+<url>http://online.wsj.com/img/wsj_sm_logo.gif</url>
+</image>
+<item>
+<title>Amazon to Retrain a Third of Its U.S. Workforce</title>
+<link>https://www.wsj.com/articles/amazon-to-retrain-a-third-of-its-u-s-workforce-11562841120?mod=rss_Technology</link>
+<description><![CDATA[Amazon.com plans to spend $700 million to retrain a third of its U.S. workforce, as technology threatens to upend the way many of its employees do their jobs.]]></description>
+<content:encoded/>
+<pubDate>Thu, 11 Jul 2019 19:08:00 -0400</pubDate>
+<guid isPermaLink="false">SB10666208208438203680704585418232875748578</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Business</wsj:articletype>
+</item>
+<item>
+<title>U.S. to Probe France's Digital Tax</title>
+<link>https://www.wsj.com/articles/u-s-launches-probe-of-french-digital-tax-11562797720?mod=rss_Technology</link>
+<description><![CDATA[The U.S. is launching an investigation of France’s planned tax on digital services, marking the first major confrontation as leading economies examine ways to tax the internet economy.]]></description>
+<content:encoded/>
+<pubDate>Wed, 10 Jul 2019 19:35:00 -0400</pubDate>
+<guid isPermaLink="false">SB10666208208438203680704585418230856330938</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Politics and Policy</wsj:articletype>
+</item>
+<item>
+<title>Apple Pulls Watch App After Finding Eavesdropping Glitch</title>
+<link>https://www.wsj.com/articles/apple-pulls-walkie-talkie-app-after-glitch-creates-eavesdropping-vulnerability-11562873077?mod=rss_Technology</link>
+<description><![CDATA[Apple has disabled the Walkie-Talkie app on Apple Watches after finding a glitch that could allow a person to listen in on someone else’s iPhone call, the second eavesdropping flaw Apple has addressed in recent months.]]></description>
+<content:encoded/>
+<pubDate>Thu, 11 Jul 2019 15:24:00 -0400</pubDate>
+<guid isPermaLink="false">SB10666208208438203680704585419934047050368</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Technology</wsj:articletype>
+</item>
+<item>
+<title>The Clinic That Helps Seniors Find the Right Marijuana Treatment</title>
+<link>https://www.wsj.com/articles/the-clinic-that-helps-seniors-find-the-right-marijuana-treatment-11562849940?mod=rss_Technology</link>
+<description><![CDATA[More older people are trying cannabis to alleviate pain and other ailments, but they’re often left taking medical advice from dispensary sales clerks. NiaMedic wants to change that.]]></description>
+<content:encoded/>
+<pubDate>Thu, 11 Jul 2019 08:59:00 -0400</pubDate>
+<guid isPermaLink="false">SB11806825420104973983704585418031874457698</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>The Future of Everything</wsj:articletype>
+</item>
+<item>
+<title>France Presses On With Digital Tax Despite U.S. Probe</title>
+<link>https://www.wsj.com/articles/france-presses-on-with-digital-tax-despite-u-s-probe-11562839468?mod=rss_Technology</link>
+<description><![CDATA[France’s legislature gave final approval to a new tax on large tech companies, shrugging off the threat posed by a new U.S. trade probe into whether the measure discriminates against American firms.]]></description>
+<content:encoded/>
+<pubDate>Thu, 11 Jul 2019 09:39:00 -0400</pubDate>
+<guid isPermaLink="false">SB10666208208438203680704585419211737133500</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Technology</wsj:articletype>
+</item>
+<item>
+<title>PC Shipments Rise After Several Quarters of Decline</title>
+<link>https://www.wsj.com/articles/pc-shipments-rise-after-two-quarters-of-decline-11562884892?mod=rss_Technology</link>
+<description><![CDATA[Personal-computer shipments rose in the second quarter for the first time since last year, as businesses sought upgrades to technology with new Windows 10 software and a shortage in processors eased.]]></description>
+<content:encoded/>
+<pubDate>Thu, 11 Jul 2019 00:01:00 -0400</pubDate>
+<guid isPermaLink="false">SB10666208208438203680704585420213195381900</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Technology</wsj:articletype>
+</item>
+<item>
+<title>Mnuchin Urges Suppliers to Seek Huawei Exemptions</title>
+<link>https://www.wsj.com/articles/mnuchin-urges-u-s-firms-to-seek-huawei-exemptions-11562798183?mod=rss_Technology</link>
+<description><![CDATA[Treasury Secretary Steven Mnuchin in recent days urged U.S. suppliers of Huawei Technologies to seek exemptions to resume sales to the blacklisted Chinese firm.]]></description>
+<content:encoded/>
+<pubDate>Wed, 10 Jul 2019 23:12:00 -0400</pubDate>
+<guid isPermaLink="false">SB10666208208438203680704585418161136073030</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>World News</wsj:articletype>
+</item>
+<item>
+<title>Trump Administration Hasn't Briefed Congress on New Cyberattack Rules, Lawmakers Say</title>
+<link>https://www.wsj.com/articles/trump-administration-hasnt-briefed-congress-on-new-rules-for-cyberattacks-lawmakers-say-11562787360?mod=rss_Technology</link>
+<description><![CDATA[The Trump administration hasn’t allowed Congress to see a classified directive issued by President Trump almost a year ago that outlines new rules for cyber weapons, prompting concern among some lawmakers that they lack oversight of the military’s increasing use of cyberattacks.]]></description>
+<content:encoded/>
+<pubDate>Wed, 10 Jul 2019 18:13:00 -0400</pubDate>
+<guid isPermaLink="false">SB10666208208438203680704585417932402713598</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Politics and Policy</wsj:articletype>
+</item>
+<item>
+<title>Japan's Restrictions on South Korean Chip Makers Backfire</title>
+<link>https://www.wsj.com/articles/japans-restrictions-on-south-korean-chip-makers-backfire-11562848020?mod=rss_Technology</link>
+<description><![CDATA[Japan’s trade jab at South Korea’s chip makers was meant to be painful, but a week in, it appears to have given a momentary victory to the core targets: Samsung Electronics and SK Hynix.]]></description>
+<content:encoded/>
+<pubDate>Thu, 11 Jul 2019 08:27:00 -0400</pubDate>
+<guid isPermaLink="false">SB10666208208438203680704585419331091205898</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Technology</wsj:articletype>
+</item>
+<item>
+<title>Nintendo Moves Forward with a Cheaper Switch Console</title>
+<link>https://www.wsj.com/articles/nintendo-moves-forward-with-a-cheaper-switch-console-11562771914?mod=rss_Technology</link>
+<description><![CDATA[Nintendo says it will start selling a cheaper version of its Switch videogame console in September, a move aimed at boosting sales for its more than two-year-old game system.]]></description>
+<content:encoded/>
+<pubDate>Wed, 10 Jul 2019 13:06:00 -0400</pubDate>
+<guid isPermaLink="false">SB10666208208438203680704585417570061908234</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Technology</wsj:articletype>
+</item>
+<item>
+<title>Computers Can Now Bluff Like a Poker Champ. Better, Actually.</title>
+<link>https://www.wsj.com/articles/computers-can-now-bluff-like-a-poker-champ-better-actually-11562873541?mod=rss_Technology</link>
+<description><![CDATA[A new artificial intelligence program called Pluribus is so advanced at a key human skill—deception—that it wiped out five human poker players with one lousy hand. ‘Hopeless.’]]></description>
+<content:encoded/>
+<pubDate>Thu, 11 Jul 2019 15:32:00 -0400</pubDate>
+<guid isPermaLink="false">SB10666208208438203680704585419673893696284</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>A-hed</wsj:articletype>
+</item>
+<item>
+<title>Google Contractors Listen to Virtual-Assistant Conversations</title>
+<link>https://www.wsj.com/articles/google-contractors-listen-to-recordings-of-consumers-addressing-virtual-assistant-11562865883?mod=rss_Technology</link>
+<description><![CDATA[Google said contractors are listening to customer audio recorded by the company’s virtual assistant, a disclosure prompted by a media report that adds to privacy concerns associated with the voice-operated devices.]]></description>
+<content:encoded/>
+<pubDate>Thu, 11 Jul 2019 16:02:00 -0400</pubDate>
+<guid isPermaLink="false">SB10666208208438203680704585419703222997886</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Technology</wsj:articletype>
+</item>
+<item>
+<title>Fed's Powell Says Facebook's Libra Raises 'Serious Concerns'</title>
+<link>https://www.wsj.com/articles/feds-jerome-powell-faces-senators-after-rate-cut-signal-11562837403?mod=rss_Technology</link>
+<description><![CDATA[Federal Reserve Chairman Jerome Powell and legislators in both parties expressed broad concern about Facebook’s plan to create a cryptocurrency-based payment network.]]></description>
+<content:encoded/>
+<pubDate>Thu, 11 Jul 2019 20:52:00 -0400</pubDate>
+<guid isPermaLink="false">SB10666208208438203680704585418241097725722</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Politics and Policy</wsj:articletype>
+</item>
+<item>
+<title>Newbies Pay $15 Million for TV Episode to Stand Out in Packed Streaming Market</title>
+<link>https://www.wsj.com/articles/coming-to-a-streaming-service-near-you-shows-costing-as-much-as-big-budget-movies-11562751000?mod=rss_Technology</link>
+<description><![CDATA[As Walt Disney, AT&amp;T’s WarnerMedia and Apple prepare to enter the crowded streaming-entertainment market, they are racing to stand out with eye-catching shows that cost as much for a season as a big-budget movie.]]></description>
+<content:encoded/>
+<pubDate>Wed, 10 Jul 2019 05:30:00 -0400</pubDate>
+<guid isPermaLink="false">SB11221521808583814367804585415901909851876</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Business</wsj:articletype>
+</item>
+<item>
+<title>Should an Instant Camera Let You Edit Before You Print?</title>
+<link>https://www.wsj.com/articles/should-an-instant-camera-let-you-edit-before-you-print-11562853627?mod=rss_Technology</link>
+<description><![CDATA[With Fujifilm’s Mini LiPlay, you can select and filter an image before it spits out. But some say digital tricks compromise what makes instant cameras great.]]></description>
+<content:encoded/>
+<pubDate>Thu, 11 Jul 2019 12:16:00 -0400</pubDate>
+<guid isPermaLink="false">SB10140269430663294149004585413990731335282</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Gear</wsj:articletype>
+</item>
+<item>
+<title>Big Tech Is a Likely Target at White House Social-Media Summit</title>
+<link>https://www.wsj.com/articles/big-tech-is-a-likely-target-at-white-house-social-media-summit-11562751015?mod=rss_Technology</link>
+<description><![CDATA[A “Social Media Summit” at the White House this week will offer a platform for Trump supporters who say they face censorship by left-tilting Big Tech—and a preview of a likely re-election theme for the president.]]></description>
+<content:encoded/>
+<pubDate>Wed, 10 Jul 2019 08:17:00 -0400</pubDate>
+<guid isPermaLink="false">SB11221521808583814367804585415902362999206</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Politics and Policy</wsj:articletype>
+</item>
+<item>
+<title>SEC Clears Blockstack to Hold First Regulated Token Offering</title>
+<link>https://www.wsj.com/articles/sec-clears-blockstack-to-hold-first-regulated-token-offering-11562794848?mod=rss_Technology</link>
+<description><![CDATA[The Securities and Exchange Commission cleared blockchain startup Blockstack to sell bitcoin-like digital tokens, a first-of-its-kind offering that could give young cryptocurrency businesses a new fundraising template.]]></description>
+<content:encoded/>
+<pubDate>Wed, 10 Jul 2019 23:28:00 -0400</pubDate>
+<guid isPermaLink="false">SB10666208208438203680704585417743940291952</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Markets Main</wsj:articletype>
+</item>
+<item>
+<title>Trump's 'Social Media Summit' Airs Grievances Against Big Tech</title>
+<link>https://www.wsj.com/articles/trump-attacks-big-tech-at-social-media-summit-11562880762?mod=rss_Technology</link>
+<description><![CDATA[President Trump used a “Social Media Summit” at the White House to bond with some of his most provocative supporters over shared grievances against large technology companies whose representatives weren’t invited.]]></description>
+<content:encoded/>
+<pubDate>Thu, 11 Jul 2019 21:16:00 -0400</pubDate>
+<guid isPermaLink="false">SB10666208208438203680704585420150889645136</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>U.S. News</wsj:articletype>
+</item>
+<item>
+<title>McAfee Readies Return to Public Markets</title>
+<link>https://www.wsj.com/articles/mcafee-readies-return-to-public-markets-11562782523?mod=rss_Technology</link>
+<description><![CDATA[Cybersecurity-software company McAfee is planning to return to the public markets, joining a record rush of IPOs.]]></description>
+<content:encoded/>
+<pubDate>Wed, 10 Jul 2019 14:17:00 -0400</pubDate>
+<guid isPermaLink="false">SB10666208208438203680704585417853867930536</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Markets Main</wsj:articletype>
+</item>
+<item>
+<title>Videogames and Two-Day Delivery Powered the S&amp;P's Rise to 3000</title>
+<link>https://www.wsj.com/articles/videogames-and-two-day-delivery-powered-the-s-ps-rise-to-3-000-11562788761?mod=rss_Technology</link>
+<description><![CDATA[Tech stocks including Amazon.com and Netflix led the pack during the S&amp;P 500’s half-decade march from 2000 to 3000, while oil companies were among the laggards.]]></description>
+<content:encoded/>
+<pubDate>Wed, 10 Jul 2019 18:39:00 -0400</pubDate>
+<guid isPermaLink="false">SB10666208208438203680704585417994015524262</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Stocks</wsj:articletype>
+</item>
+<item>
+<title>Apple Music, Spotify Tap Live Events to Stand Out</title>
+<link>https://www.wsj.com/articles/music-streaming-services-tap-live-events-11562714295?mod=rss_Technology</link>
+<description><![CDATA[Streaming services are using listening data to invite hard-core fans to free, private concerts by Taylor Swift, Tyler the Creator and other pop stars to stand out and connect with fans more directly.]]></description>
+<content:encoded/>
+<pubDate>Tue, 09 Jul 2019 19:30:00 -0400</pubDate>
+<guid isPermaLink="false">SB11221521808583814367804585416230962936258</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Media &amp; Marketing</wsj:articletype>
+</item>
+<item>
+<title>Who Needs Amazon HQ2? Not New York Real Estate's Tech Boom</title>
+<link>https://www.wsj.com/articles/new-york-city-real-estate-savors-a-tech-boom-11562760760?mod=rss_Technology</link>
+<description><![CDATA[Technology companies are adding millions of square feet in office space and creating thousands of local jobs, with few repercussions from Amazon’s rejection of a Queens headquarters.]]></description>
+<content:encoded/>
+<pubDate>Wed, 10 Jul 2019 14:26:00 -0400</pubDate>
+<guid isPermaLink="false">SB11221521808583814367804585416153162754056</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>New York</wsj:articletype>
+</item>
+<item>
+<title>Spurred by Amazon, Supermarkets Try Swapping Cashiers for Cameras</title>
+<link>https://www.wsj.com/articles/spurred-by-amazon-supermarkets-try-swapping-cashiers-for-cameras-11562491800?mod=rss_Technology</link>
+<description><![CDATA[Tesco and other supermarket chains are testing cashierless stores with cameras that track what shoppers pick, so they pay by simply walking out the door.]]></description>
+<content:encoded/>
+<pubDate>Sun, 07 Jul 2019 05:30:00 -0400</pubDate>
+<guid isPermaLink="false">SB11653292269594463802104585407743323163442</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Business</wsj:articletype>
+</item>
+<item>
+<title>After Jony Ive, Apple Bets a Pragmatist Can Turn Prophet</title>
+<link>https://www.wsj.com/articles/with-jony-ives-successor-apple-bets-a-pragmatist-can-turn-prophet-11562319008?mod=rss_Technology</link>
+<description><![CDATA[Apple’s Jeff Williams has gone from heading procurement to leading all of the tech giant’s operations. Now he has a new responsibility: creating the iconic gadgets that make the company hum.]]></description>
+<content:encoded/>
+<pubDate>Fri, 05 Jul 2019 05:30:00 -0400</pubDate>
+<guid isPermaLink="false">SB11653292269594463802104585404100145703296</guid>
+<category domain="AccessClassName">PAID</category>
+<wsj:articletype>Technology</wsj:articletype>
+</item>
+</channel>
+</rss>

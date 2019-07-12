@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Science & Environment]]></title>
+        <description><![CDATA[BBC News - Science & Environment]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Science &amp; Environment</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 5 Jul 2019 18:54:55 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Hayabusa-2: Japanese spacecraft makes final touchdown on asteroid]]></title>
+            <description><![CDATA[The Hayabusa-2 craft will pick up fresh space rock that could help explain how the Solar System evolved.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-48946603</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-48946603</guid>
+            <pubDate>Thu, 11 Jul 2019 05:33:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A68: World's biggest iceberg is on the move]]></title>
+            <description><![CDATA[The giant block of ice has spun around and is now moving north along the Antarctic Peninsula.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-48920168</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-48920168</guid>
+            <pubDate>Thu, 11 Jul 2019 10:33:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate change: How hot cities could be in 2050]]></title>
+            <description><![CDATA[Edinburgh will feel like Paris and Leeds could be as warm as Melbourne, according to a study.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-48947573</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-48947573</guid>
+            <pubDate>Thu, 11 Jul 2019 08:48:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Earliest modern human found outside Africa]]></title>
+            <description><![CDATA[Researchers have found the earliest example of our species outside Africa.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-48913307</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-48913307</guid>
+            <pubDate>Wed, 10 Jul 2019 17:17:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[European Vega rocket lost minutes after lift-off]]></title>
+            <description><![CDATA[The rocket carrying a satellite is believed to have landed in the sea, the first failure in 15 launches.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-48946597</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-48946597</guid>
+            <pubDate>Thu, 11 Jul 2019 04:30:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stonehenge mini model reveals sound of monument]]></title>
+            <description><![CDATA[The model gives an insight "into what our ancestors would have heard", an academic says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-wiltshire-48948623</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-wiltshire-48948623</guid>
+            <pubDate>Thu, 11 Jul 2019 15:03:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Suzanne Eaton, US scientist, found dead in WW2 bunker on Crete]]></title>
+            <description><![CDATA[Police on the Greek island say Suzanne Eaton, who was there for a conference, died of suffocation.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-48944021</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-48944021</guid>
+            <pubDate>Wed, 10 Jul 2019 18:48:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russian nuclear submarine: Norway finds big radiation leak]]></title>
+            <description><![CDATA[Experts say there is no alarm, despite a high level of caesium at a Soviet-era submarine wreck.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-48949113</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-48949113</guid>
+            <pubDate>Thu, 11 Jul 2019 15:53:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pollution warning over car tyre and brake dust]]></title>
+            <description><![CDATA[Even going electric won't stop cars polluting city streets, government advisers say.]]></description>
+            <link>https://www.bbc.co.uk/news/business-48944561</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-48944561</guid>
+            <pubDate>Wed, 10 Jul 2019 23:02:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate change: UK government 'like Dad's Army']]></title>
+            <description><![CDATA[The UK's "ramshackle" approach means emissions are not being cut fast enough, advisers say,]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-48929632</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-48929632</guid>
+            <pubDate>Wed, 10 Jul 2019 08:57:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bloodhound supersonic car to run at high speed in October]]></title>
+            <description><![CDATA[The UK-led attempt to break the land speed record will conduct 500-600mph trials later this year.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-48920165</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-48920165</guid>
+            <pubDate>Tue, 09 Jul 2019 23:16:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate change: Water and green energy produced by a single device]]></title>
+            <description><![CDATA[Researchers adapt a solar panel so that it can produce drinking water from the sea as well as green electricity.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-48910569</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-48910569</guid>
+            <pubDate>Tue, 09 Jul 2019 15:01:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Attenborough: Climate risks Africa turmoil]]></title>
+            <description><![CDATA[The naturalist and broadcaster Sir David Attenborough says that climate change will make parts of Africa uninhabitable.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-48928372</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-48928372</guid>
+            <pubDate>Tue, 09 Jul 2019 15:51:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jodrell Bank gains Unesco World Heritage status]]></title>
+            <description><![CDATA[The observatory, which tracked US and Russian craft during the space race, wins Unesco recognition.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-manchester-48893080</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-48893080</guid>
+            <pubDate>Sun, 07 Jul 2019 11:12:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[California earthquake leaves scar on the desert]]></title>
+            <description><![CDATA[Satellite pictures shows how the 7.1 magnitude earthquake changed the landscape.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-48921915</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-48921915</guid>
+            <pubDate>Tue, 09 Jul 2019 15:01:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Amazing' gene-silencing drugs reach NHS]]></title>
+            <description><![CDATA[Doctors say the drugs are making the "previously untreatable, treatable" and have huge potential.]]></description>
+            <link>https://www.bbc.co.uk/news/health-48907976</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-48907976</guid>
+            <pubDate>Mon, 08 Jul 2019 23:10:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Badgers lead mammal roadkill list]]></title>
+            <description><![CDATA[More than 900 badgers have been reported dead by the side of UK roads so far this year.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-48886673</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-48886673</guid>
+            <pubDate>Sat, 06 Jul 2019 00:07:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mystery 'tequila plant' agave to flower in Cambridge after 57 years]]></title>
+            <description><![CDATA[University gardeners are ready to remove a glasshouse roof after the plant had a sudden growth spurt.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-cambridgeshire-48866289</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cambridgeshire-48866289</guid>
+            <pubDate>Sat, 06 Jul 2019 23:16:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Rewiring nerves' reverses hand and arm paralysis]]></title>
+            <description><![CDATA["It's made a huge difference in my life," says one patient who can now live independently.]]></description>
+            <link>https://www.bbc.co.uk/news/health-48868670</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-48868670</guid>
+            <pubDate>Thu, 04 Jul 2019 23:03:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump praises his administration's environmental efforts]]></title>
+            <description><![CDATA[The US president did not mention climate change, but spoke of improvements to the economy and pollution.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-48916388</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-48916388</guid>
+            <pubDate>Mon, 08 Jul 2019 21:53:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Electric cars 'will not solve transport problem,' report warns]]></title>
+            <description><![CDATA[Car use will still need to be curbed, even when all vehicles use clean electricity, a report warns.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-48875361</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-48875361</guid>
+            <pubDate>Fri, 05 Jul 2019 04:01:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Obituary: Georges Brossard, the man who stuck up for insects]]></title>
+            <description><![CDATA[Georges Brossard devoted his life to helping us appreciate "the most misunderstood animals".]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-48853054</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-48853054</guid>
+            <pubDate>Sat, 06 Jul 2019 23:21:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mandla Maseko: Would-be African astronaut dies in road crash]]></title>
+            <description><![CDATA[Mandla Maseko, from South Africa, won a chance to become the first black African in space.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-48904136</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-48904136</guid>
+            <pubDate>Mon, 08 Jul 2019 11:19:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[California earthquake: Power 'restored to most' after 7.1-magnitude quake]]></title>
+            <description><![CDATA[Power has been restored to most homes that lost it in the 7.1-magnitude earthquake.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-48891511</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-48891511</guid>
+            <pubDate>Sat, 06 Jul 2019 18:56:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LGBT+ scientists affected by discrimination]]></title>
+            <description><![CDATA[A report finds that 28% of LGBT+ people working in the physical sciences have considered leaving their jobs due to discrimination.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-48884806</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-48884806</guid>
+            <pubDate>Fri, 05 Jul 2019 15:41:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alaska heatwave: Anchorage hits record temperature]]></title>
+            <description><![CDATA[Several places in southern Alaska are experiencing record temperatures, including its largest city.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-48890556</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-48890556</guid>
+            <pubDate>Sat, 06 Jul 2019 07:59:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sargassum: The biggest seaweed bloom in the world]]></title>
+            <description><![CDATA[Known as the Great Atlantic Sargassum Belt, the seaweed stretches from West Africa to the Gulf of Mexico.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-48869100</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-48869100</guid>
+            <pubDate>Thu, 04 Jul 2019 18:38:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Toxic processionary caterpillar plague spreads across Europe]]></title>
+            <description><![CDATA[The wind-blown hairs of oak caterpillars are a health risk in Germany and Benelux countries.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-48880468</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-48880468</guid>
+            <pubDate>Tue, 09 Jul 2019 08:04:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Madrid low emission zone reinstated after protests]]></title>
+            <description><![CDATA[The new mayor had suspended fines for five days, during which there was a "surge" in pollution.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-48886405</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-48886405</guid>
+            <pubDate>Fri, 05 Jul 2019 21:00:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Apollo 11: 'The greatest single broadcast in television history']]></title>
+            <description><![CDATA[The moon landing 50 years ago brought previously unthinkable images and ideas to millions.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-48857752</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-48857752</guid>
+            <pubDate>Wed, 10 Jul 2019 23:21:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mumbai rains: Is India's weather becoming more extreme?]]></title>
+            <description><![CDATA[With Mumbai seeing its heaviest rain in a decade, Reality Check looks at India's extreme weather patterns.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-48865726</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-48865726</guid>
+            <pubDate>Thu, 11 Jul 2019 00:20:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Artificial lionfish powered by ‘robotic blood’]]></title>
+            <description><![CDATA[The circulatory system fitted to the synthetic fish allows it to be powered for about 40 hours.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-48338869</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-48338869</guid>
+            <pubDate>Thu, 11 Jul 2019 00:19:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Moon landings: What was the 1969 Apollo 11 mission?]]></title>
+            <description><![CDATA[It's 50 years since the first ever manned landing on the Moon - what was involved?]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-48911106</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-48911106</guid>
+            <pubDate>Tue, 09 Jul 2019 23:52:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Predator Free 2050: New Zealand ramps up plan to purge all pests]]></title>
+            <description><![CDATA[New Zealand digs in with its controversial plan to protect native species by wiping out all predators.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-48702762</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-48702762</guid>
+            <pubDate>Mon, 08 Jul 2019 23:05:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why blue jeans are going green]]></title>
+            <description><![CDATA[A growing number of denim producers are embracing environmentally-friendly production methods.]]></description>
+            <link>https://www.bbc.co.uk/news/business-48851820</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-48851820</guid>
+            <pubDate>Wed, 03 Jul 2019 23:16:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Remote Mount Michael volcano hosts persistent lava lake]]></title>
+            <description><![CDATA[The rare feature exists inside the crater of the Mount Michael stratovolcano in the South Atlantic.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-48852670</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-48852670</guid>
+            <pubDate>Wed, 03 Jul 2019 08:54:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The chart that defines our warming world]]></title>
+            <description><![CDATA[Communicating what's meant by climate change in one simple, easy to understand visualisation.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-48678196</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-48678196</guid>
+            <pubDate>Fri, 21 Jun 2019 08:03:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The nuclear fight for Sizewell on Suffolk's coast]]></title>
+            <description><![CDATA[The nuclear industry says new plants are essential, but protesters say the environment is under threat.]]></description>
+            <link>https://www.bbc.co.uk/news/business-48828820</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-48828820</guid>
+            <pubDate>Sun, 07 Jul 2019 00:27:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why are Nike trainers washing up on beaches?]]></title>
+            <description><![CDATA[From Bermuda and the Azores to Ireland and France, large numbers of shoes are washing ashore.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-48464664</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-48464664</guid>
+            <pubDate>Wed, 19 Jun 2019 00:11:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Face to face with DR Congo's deadly vipers]]></title>
+            <description><![CDATA[Photographer Hugh Kinsella Cunningham captures close-up portraits of some of the world's most dangerous snakes.]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-48355741</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-48355741</guid>
+            <pubDate>Mon, 17 Jun 2019 23:14:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wreckfish: The fish that gobbles up unsuspecting sharks]]></title>
+            <description><![CDATA[These sharks thought it was swordfish on the menu, but there was something hungrier in the darkness.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-48952131</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-48952131</guid>
+            <pubDate>Thu, 11 Jul 2019 15:03:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Environmental work in Brecon Beacons estate handed to young people]]></title>
+            <description><![CDATA[The project will restore habitats and ecosystems and explore innovative farming and forestry approaches.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-48939663</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-48939663</guid>
+            <pubDate>Wed, 10 Jul 2019 23:00:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Climategate': 10 years on, what's changed?]]></title>
+            <description><![CDATA[Hackers stole 6,000 emails and other documents from a climate research centre almost 10 years ago.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-48925015</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-48925015</guid>
+            <pubDate>Tue, 09 Jul 2019 23:55:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How a fake hand test can help the study of empathy]]></title>
+            <description><![CDATA[People with a rare condition called mirror-touch synesthesia could help scientists understand empathy.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-48928892</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-48928892</guid>
+            <pubDate>Tue, 09 Jul 2019 23:49:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Igloo made out of empty plastic milk bottles at County Durham school]]></title>
+            <description><![CDATA[The structure aims to teach about plastic pollution and give the pupils somewhere to read and play.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-tees-48912377</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-tees-48912377</guid>
+            <pubDate>Mon, 08 Jul 2019 23:09:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

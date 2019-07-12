@@ -47,9 +47,13 @@ public class RssDictionaryParser {
      * This method parses and prints the companies that meet the inactivity criteria
      *
      * @param rssDictionary The RSS Dictionary keyed by company and valued by RSS URL list in string form
-     * @param days          The number of days that the companies' RSS feeds do not have any activity
+     * @param days          The number of days that the companies' RSS feeds do not have any activity. Should be positive integer.
      */
     public static void parseRssDictionaryForCompaniesWithoutActivity(Map<String, List<String>> rssDictionary, int days) {
+
+        if (days <= 0) {
+            throw new IllegalArgumentException("Number of days must be positive");
+        }
 
         unmarshaller = createUnmarshaller();
 
@@ -67,12 +71,11 @@ public class RssDictionaryParser {
                         URL url = new URL(rssUrl);
                         urlList.add(url);
                     } catch (MalformedURLException e) {
-                        System.out.println("URL: " + rssUrl + " is malformed.");
                         e.printStackTrace();
                     }
-
-                    companyRssFeedMap.put(company, createRssFeeds(company, urlList));
                 });
+
+                companyRssFeedMap.put(company, createRssFeeds(urlList));
             });
 
             checkRssLastBuildDates(companyRssFeedMap, days);
@@ -109,7 +112,7 @@ public class RssDictionaryParser {
                 }
             }
 
-            if (rssFeedList.size() == inactiveRssCounter) {
+            if (!rssFeedList.isEmpty() && rssFeedList.size() == inactiveRssCounter) {
                 companiesWithoutActivity.add(company);
             }
         });
@@ -124,18 +127,17 @@ public class RssDictionaryParser {
      * @param days      The number of days that the companies' RSS feeds do not have any activity
      */
     private static void printCompanies(List<String> companies, int days) {
-        System.out.println("The following companies have at least one RSS feed without activity for " + days + " days:");
+        System.out.println("The following companies' RSS feeds have not had activity in " + days + " days:");
         companies.forEach(System.out::println);
     }
 
     /**
      * This method creates RssRoot objects by unmarshalling the XML URLs
      *
-     * @param company Name of company
      * @param urlList RSS feeds as URL objects
      * @return List of RssRoot objects which have been unmarshalled from the XML URLs and contain RSS tag values
      */
-    private static List<RssRoot> createRssFeeds(String company, List<URL> urlList) {
+    private static List<RssRoot> createRssFeeds(List<URL> urlList) {
 
         List<RssRoot> rssRootList = new ArrayList<>();
 

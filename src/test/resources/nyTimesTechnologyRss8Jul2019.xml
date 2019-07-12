@@ -1,0 +1,455 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Technology</title>
+    <link>https://www.nytimes.com/section/technology?emc=rss&amp;partner=rss</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2019 The New York Times Company</copyright>
+    <lastBuildDate>Mon, 8 Jul 2019 04:30:35 +0000</lastBuildDate>
+    <image>
+      <title>NYT &gt; Technology</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/technology?emc=rss&amp;partner=rss</link>
+    </image>
+    <item>
+      <title>Amazon’s Latest Experiment: Retraining Its Work Force</title>
+      <link>https://www.nytimes.com/2019/07/11/technology/amazon-workers-retraining-automation.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/11/technology/amazon-workers-retraining-automation.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/11/technology/amazon-workers-retraining-automation.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Amazon’s effort could help answer a fundamental question: Will automation be a solution for the great challenges of the 21st century economy, or make those problems worse?</description>
+      <dc:creator>Ben Casselman and Adam Satariano</dc:creator>
+      <pubDate>Fri, 12 Jul 2019 00:26:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Robots and Robotics</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/07/11/business/11amazon1/merlin_155852325_5fae317f-b2db-41dd-a0f0-ba625408d9c9-moth.jpg" width="151"></media:content>
+      <media:credit>Hiroko Masuike/The New York Times</media:credit>
+      <media:description>Amazon workers outside the company’s warehouse in Staten Island earlier this year.&amp;nbsp;</media:description>
+    </item>
+    <item>
+      <title>Hold ’Em or Fold ’Em? This A.I. Bluffs With the Best</title>
+      <link>https://www.nytimes.com/2019/07/11/science/poker-robot-ai-artificial-intelligence.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/11/science/poker-robot-ai-artificial-intelligence.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/11/science/poker-robot-ai-artificial-intelligence.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Pluribus, a poker-playing algorithm, can beat the world’s top human players, proving that machines, too, can master our mind games.</description>
+      <dc:creator>Cade Metz</dc:creator>
+      <pubDate>Thu, 11 Jul 2019 23:55:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poker (Card Game)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cards and Card Games</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer and Video Games</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Dota 2 (Video Game)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brown, Noam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sandholm, Tuomas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Science (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/07/11/science/11POKER-ROBOT-promo/11POKER-ROBOT-promo-moth-v3.jpg" width="151"></media:content>
+      <media:credit>David Cooper/Toronto Star, via Getty Images</media:credit>
+    </item>
+    <item>
+      <title>Trump Rolls Out the Red Carpet for Right-Wing Social Media Trolls</title>
+      <link>https://www.nytimes.com/2019/07/10/business/trump-social-media-summit.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/10/business/trump-social-media-summit.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/10/business/trump-social-media-summit.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>A White House gathering on Thursday illuminates the influence of President Trump’s Twitter fans within the political establishment. But it also has the makings of a West Wing pity party.</description>
+      <dc:creator>Kevin Roose</dc:creator>
+      <pubDate>Wed, 10 Jul 2019 18:38:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fringe Groups and Movements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Online Advertising</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Crowdsourcing (Internet)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitter</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/07/10/business/10roose1/10roose1-moth.jpg" width="151"></media:content>
+      <media:credit>Anna Moneymaker/The New York Times</media:credit>
+      <media:description>Since his election, President Trump has continued to look to his internet supporters as a kind of crowdsourced media consultancy.</media:description>
+    </item>
+    <item>
+      <title>Collecting Your Thoughts Is Good. Organizing Them Is Even Better.</title>
+      <link>https://www.nytimes.com/2019/07/10/technology/personaltech/collecting-your-thoughts-is-good-organizing-them-is-even-better.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/10/technology/personaltech/collecting-your-thoughts-is-good-organizing-them-is-even-better.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/10/technology/personaltech/collecting-your-thoughts-is-good-organizing-them-is-even-better.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Today’s apps, services and hardware make it easy to jot, sketch and save the things that inspire you.</description>
+      <dc:creator>J. D. Biersdorfer</dc:creator>
+      <pubDate>Thu, 11 Jul 2019 04:44:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cloud Computing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/07/10/technology/personaltech/10TECHTIP_TOPART/10TECHTIP_TOPART-moth.jpg" width="151"></media:content>
+      <media:description>Google Keep syncs your multimedia musings across mobile devices and computer browsers so your notes are easy to retrieve.</media:description>
+    </item>
+    <item>
+      <title>Trump Uses Twitter to Govern. I Used It to Cover His Social Media Summit.</title>
+      <link>https://www.nytimes.com/2019/07/11/us/politics/trump-social-media-summit.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/11/us/politics/trump-social-media-summit.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/11/us/politics/trump-social-media-summit.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>The president held the first such gathering at the White House. Notably absent were Twitter, Facebook and Google.</description>
+      <dc:creator>Katie Rogers</dc:creator>
+      <pubDate>Fri, 12 Jul 2019 04:02:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gorka, Sebastian</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/07/11/us/politics/11dc-trumpsocialmedia-oak/11dc-trumpsocialmedia-oak-moth.jpg" width="151"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>President Trump said during the event that he liked the power of his tweets.</media:description>
+    </item>
+    <item>
+      <title>Julie Sweet to Run Accenture, Adding a Woman to the Ranks of Corporate C.E.O.s</title>
+      <link>https://www.nytimes.com/2019/07/11/business/julie-sweet-accenture-ceo.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/11/business/julie-sweet-accenture-ceo.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/11/business/julie-sweet-accenture-ceo.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Her appointment raises the number of women at the helm of the most valuable U.S. public companies to 27, but that is just slightly more than 5 percent of those firms.</description>
+      <dc:creator>David Gelles</dc:creator>
+      <pubDate>Thu, 11 Jul 2019 20:16:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Accenture Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sweet, Julie</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nanterme, Pierre (1959-2019)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hiring and Promotion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cloud Computing</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/07/11/business/11accenture/11accenture-moth.jpg" width="151"></media:content>
+      <media:credit>Greg Kahn for The New York Times</media:credit>
+      <media:description>With Julie Sweet’s appointment, announced on Thursday, 27 women will be leading companies in the S&amp;amp;P 500.</media:description>
+    </item>
+    <item>
+      <title>F.E.C. Allows Security Company to Help 2020 Candidates Defend Campaigns</title>
+      <link>https://www.nytimes.com/2019/07/11/technology/2020-campaigns-election-security.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/11/technology/2020-campaigns-election-security.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/11/technology/2020-campaigns-election-security.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Federal lawyers previously advised the commission to block the company, Area 1, from providing services to presidential candidates at a discount.</description>
+      <dc:creator>Nicole Perlroth</dc:creator>
+      <pubDate>Thu, 11 Jul 2019 21:50:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Elections (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Area 1 Security Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Election Commission</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/07/12/business/11cyber-print/11cyber-moth.jpg" width="151"></media:content>
+      <media:credit>Lauren Justice for The New York Times</media:credit>
+      <media:description>Oren Falkowitz, left, and Blake Darche, former N.S.A. hackers and the founders of Area 1.</media:description>
+    </item>
+    <item>
+      <title>Fed Chair Raises ‘Serious Concerns’ About Facebook’s Cryptocurrency Project</title>
+      <link>https://www.nytimes.com/2019/07/10/technology/fed-chair-facebook-cryptocurrency-libra.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/10/technology/fed-chair-facebook-cryptocurrency-libra.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/10/technology/fed-chair-facebook-cryptocurrency-libra.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Jerome Powell, the chair of the Federal Reserve, was the latest central banker to express skepticism about Facebook’s cryptocurrency plans.</description>
+      <dc:creator>Nathaniel Popper, Mike Isaac and Jeanna Smialek</dc:creator>
+      <pubDate>Wed, 10 Jul 2019 21:43:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Powell, Jerome H</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Libra (Currency)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Currency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Marcus, David A</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/07/10/business/10libra/10libra-moth.jpg" width="151"></media:content>
+      <media:credit>Gabriella Demczuk for The New York Times</media:credit>
+      <media:description>The Federal Reserve chair, Jerome Powell, said on Wednesday that he had a host of “serious concerns” about Facebook’s Libra project.</media:description>
+    </item>
+    <item>
+      <title>IBM Bets $34 Billion That Red Hat Can Help It Catch Amazon and Microsoft</title>
+      <link>https://www.nytimes.com/2019/07/09/technology/ibm-red-hat-cloud-computing.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/09/technology/ibm-red-hat-cloud-computing.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/09/technology/ibm-red-hat-cloud-computing.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>With the acquisition of a leading business software company, IBM is presenting itself as an open, impartial player in the cloud computing industry.</description>
+      <dc:creator>Steve Lohr</dc:creator>
+      <pubDate>Tue, 09 Jul 2019 20:20:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Red Hat Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Business Machines Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cloud Computing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Open-Source Software</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rometty, Virginia M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Whitehurst, James M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Enterprise Computing</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/07/09/business/00ibm1/00ibm1-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Mary Altaffer/Associated Press</media:credit>
+      <media:description>IBM has outlined a strategy to use Red Hat, a provider of cloud computing tools, to get a big piece of the cloud computing market.</media:description>
+    </item>
+    <item>
+      <title>Twitter Backs Off Broad Limits on ‘Dehumanizing’ Speech</title>
+      <link>https://www.nytimes.com/2019/07/09/technology/twitter-ban-speech-dehumanizing.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/09/technology/twitter-ban-speech-dehumanizing.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/09/technology/twitter-ban-speech-dehumanizing.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>After a year of debate and criticism, an effort to add to a policy on banned speech led to a narrower restriction that applies only when religious groups are targeted.</description>
+      <dc:creator>Kate Conger</dc:creator>
+      <pubDate>Tue, 09 Jul 2019 18:37:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fringe Groups and Movements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dorsey, Jack</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/07/09/business/09twitter/09twitter-moth.jpg" width="151"></media:content>
+      <media:credit>Jason Henry for The New York Times</media:credit>
+      <media:description>The San Francisco headquarters of Twitter, which on Tuesday introduced guidelines for what constitutes dehumanizing speech on its service.</media:description>
+    </item>
+    <item>
+      <title>To Reduce Hospital Noise, Researchers Create Alarms That Whistle and Sing</title>
+      <link>https://www.nytimes.com/2019/07/09/science/alarm-fatigue-hospitals.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/09/science/alarm-fatigue-hospitals.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/09/science/alarm-fatigue-hospitals.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Why do medical devices sound so terrible? A group of clinicians, psychologists, musicians and designers are developing signals that are less startling and more informative. Listen here.</description>
+      <dc:creator>Emily S. Rueb</dc:creator>
+      <pubDate>Wed, 10 Jul 2019 13:46:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">False Alarms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Noise</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medical Devices</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/07/14/science/00xp-hospitalalarm/00xp-hospitalalarm-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Kate Warren for The New York Times</media:credit>
+      <media:description>After an unsettling hospital stay, Yoko Sen founded a startup that creates more pleasing sounds for medical devices. For some patients, it may be the last sound they ever hear.</media:description>
+    </item>
+    <item>
+      <title>What if Being a YouTube Celebrity Is Actually Backbreaking Work?</title>
+      <link>https://www.nytimes.com/2019/07/09/style/emma-chamberlain-youtube.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/09/style/emma-chamberlain-youtube.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/09/style/emma-chamberlain-youtube.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Emma Chamberlain dropped out of school and changed the world of online video. It hasn’t been easy.</description>
+      <dc:creator>Jonah Engel Bromwich</dc:creator>
+      <pubDate>Thu, 11 Jul 2019 04:54:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chamberlain, Emma (2001- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">YouTube.com</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/07/09/style/09chamberlain-hp/merlin_157395891_8336626c-0177-447d-ba23-919535ce0f6d-moth.jpg" width="151"></media:content>
+      <media:credit>Kaleb Marshall for The New York Times</media:credit>
+      <media:description>Emma Chamberlain, 18, has in two years amassed 8 million YouTube followers who admire her humor and relatability. What they don’t see, though, is how much work goes into her videos.</media:description>
+    </item>
+    <item>
+      <title>Kohl’s Is Betting on Amazon Returns to Drive Sales</title>
+      <link>https://www.nytimes.com/2019/07/08/business/kohls-amazon-returns.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/08/business/kohls-amazon-returns.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/08/business/kohls-amazon-returns.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>The retailer wants to draw more people into its stores, and it hopes that packing, labeling and shipping returns for the online behemoth will help.</description>
+      <dc:creator>Sapna Maheshwari</dc:creator>
+      <pubDate>Mon, 08 Jul 2019 20:01:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kohl&#39;s Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gass, Michelle</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/07/08/business/08kohls/08kohls-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Kyle Grillot/Bloomberg</media:credit>
+      <media:description>Kohl’s will pack, label and ship Amazon returns for free at its more than 1,100 stores, a bid to increase foot traffic and perhaps increase sales.</media:description>
+    </item>
+    <item>
+      <title>Employee Activism Is Alive in Tech. It Stops Short of Organizing Unions.</title>
+      <link>https://www.nytimes.com/2019/07/08/technology/tech-companies-union-organizing.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/08/technology/tech-companies-union-organizing.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/08/technology/tech-companies-union-organizing.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Efforts to form unions at several smaller tech companies have stalled, showing the limits of how far a wave of employee activism can go.</description>
+      <dc:creator>Kate Conger and Noam Scheiber</dc:creator>
+      <pubDate>Mon, 08 Jul 2019 07:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NPM Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Engineering and Engineers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kickstarter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Labor Relations Board</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Lanetix Inc</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/07/08/business/07jptechunion-print/00techunion1-moth.jpg" width="151"></media:content>
+      <media:credit>John Taggart for The New York Times</media:credit>
+      <media:description>Last November, 20,000 Google employees staged a walkout over the company&amp;rsquo;s handling of sexual harassment cases.</media:description>
+    </item>
+    <item>
+      <title>An Online Preschool Closes a Gap but Exposes Another</title>
+      <link>https://www.nytimes.com/2019/07/07/technology/preschool-online-waterford-upstart.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/07/technology/preschool-online-waterford-upstart.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/07/technology/preschool-online-waterford-upstart.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>It is not a program for children of the rich. It is geared to lower-income families who have fewer prekindergarten options.</description>
+      <dc:creator>Nellie Bowles</dc:creator>
+      <pubDate>Sun, 07 Jul 2019 18:10:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (Pre-School)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tablet Computers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nonprofit Organizations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Waterford Research Institute LLC</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/07/07/business/07preschool1/07preschool1-moth.jpg" width="151"></media:content>
+      <media:credit>Kim Raff for The New York Times</media:credit>
+      <media:description>Kamila Peralta, in front, and Yadira Briones receive graduation certificates and hats after completing an online kindergarten readiness program in Taylorsville, Utah, run by a nonprofit group, Waterford.org.</media:description>
+    </item>
+    <item>
+      <title>Now Some Families Are Hiring Coaches to Help Them Raise Phone-Free Children</title>
+      <link>https://www.nytimes.com/2019/07/06/style/parenting-coaches-screen-time-phones.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/06/style/parenting-coaches-screen-time-phones.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/06/style/parenting-coaches-screen-time-phones.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Screen consultants are here to help you remember life before smartphones and tablets. (Spoiler: get a dog!)</description>
+      <dc:creator>Nellie Bowles</dc:creator>
+      <pubDate>Sun, 07 Jul 2019 14:38:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-selfcare</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/07/02/autossell/baby-hand-phoneSTILL_wide/baby-hand-phoneSTILL_wide-moth.jpg" width="151"></media:content>
+      <media:credit>Photo Illustration by The New York Times; Shutterstock (hand)</media:credit>
+    </item>
+    <item>
+      <title>As New Zealand Fights Online Hate, the Internet’s Darkest Corners Resist</title>
+      <link>https://www.nytimes.com/2019/07/05/world/asia/new-zealand-internet.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/05/world/asia/new-zealand-internet.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/05/world/asia/new-zealand-internet.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>If anything, the appetite for material connected to the Christchurch massacre is growing, even as New Zealand tries to deny the accused gunman a platform for his views.</description>
+      <dc:creator>Jamie Tarabay</dc:creator>
+      <pubDate>Thu, 11 Jul 2019 07:41:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Christchurch, New Zealand, Attack (March 2019)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Zealand</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ardern, Jacinda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tarrant, Brenton Harrison</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hate Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fringe Groups and Movements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">4chan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reddit Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">YouTube.com</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Christchurch (New Zealand)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Violence (Media and Entertainment)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/07/04/world/00nz-online-1/00nz-online-1-moth.jpg" width="151"></media:content>
+      <media:credit>Adam Dean for The New York Times</media:credit>
+      <media:description>Police officers near Al Noor Mosque in Christchurch, New Zealand, after it was attacked in March.</media:description>
+    </item>
+    <item>
+      <title>Ford and VW Are Set to Cooperate on Self-Driving and Electric Cars</title>
+      <link>https://www.nytimes.com/2019/07/05/business/ford-vw-self-driving-electric-cars.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/05/business/ford-vw-self-driving-electric-cars.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/05/business/ford-vw-self-driving-electric-cars.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>An agreement to be formalized next week is the latest example of how rivals in the auto industry are sharing the enormous cost of new technologies.</description>
+      <dc:creator>Jack Ewing and Neal E. Boudette</dc:creator>
+      <pubDate>Fri, 05 Jul 2019 19:02:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ford Motor Co</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Volkswagen AG</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Driverless and Semiautonomous Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Argo AI</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/07/06/business/05vw-print/05vw-moth.jpg" width="151"></media:content>
+      <media:credit>John Macdougall/Agence France-Presse &amp;mdash; Getty Images</media:credit>
+      <media:description>A Volkswagen production line in Wolfsburg, Germany. The company is expected to deepen its alliance with Ford.</media:description>
+    </item>
+    <item>
+      <title>‘Eight’ Is a Breakthrough for Virtual Reality in Classical Music</title>
+      <link>https://www.nytimes.com/2019/07/05/arts/music/michel-van-der-aa-eight.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/05/arts/music/michel-van-der-aa-eight.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/05/arts/music/michel-van-der-aa-eight.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>In his latest work, the composer Michel van der Aa has fully integrated emerging technology with musical and theatrical ideas.</description>
+      <dc:creator>Joshua Barone</dc:creator>
+      <pubDate>Mon, 08 Jul 2019 23:07:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Opera</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">van der Aa, Michel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Eight (Opera)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Reality (Computers)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classical Music</category>
+      <category domain="">Aix Festival</category>
+    </item>
+    <item>
+      <title>‘Prospective Threat’ of Chinese Spying Justifies Huawei Ban, U.S. Says</title>
+      <link>https://www.nytimes.com/2019/07/05/technology/huawei-lawsuit-us-government.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/05/technology/huawei-lawsuit-us-government.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/05/technology/huawei-lawsuit-us-government.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Government lawyers argued in a court filing this week that proof of wrongdoing by the Chinese tech giant was not required to justify barring federal agencies from using its gear.</description>
+      <dc:creator>Raymond Zhong</dc:creator>
+      <pubDate>Fri, 05 Jul 2019 23:11:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Huawei Technologies Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/07/06/business/05HUAWEI-print/05HUAWEI1-moth.jpg" width="151"></media:content>
+      <media:credit>Fred Dufour/Agence France-Presse &amp;mdash; Getty Images</media:credit>
+      <media:description>The Chinese telecommunications giant Huawei is fighting a United States law that prohibits federal agencies from using the company&amp;rsquo;s equipment.</media:description>
+    </item>
+    <item>
+      <title>Remembering Those Who Lived the Apollo 11 Mission</title>
+      <link>https://www.nytimes.com/2019/07/05/obituaries/apollo-11-moon-obituaries.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/05/obituaries/apollo-11-moon-obituaries.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/05/obituaries/apollo-11-moon-obituaries.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Portraits of people forever tethered to the moon landing.</description>
+      <dc:creator>Daniel J. Wakin</dc:creator>
+      <pubDate>Wed, 10 Jul 2019 17:17:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Moon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Apollo Project</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Aeronautics and Space Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Armstrong, Neil Alden</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mueller, George (1918-2015)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/06/28/obituaries/moon-earth/merlin_156417993_8eaad772-9ce2-4411-8b5f-da2a8a96a475-moth.jpg" width="151"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+    </item>
+    <item>
+      <title>The Week in Tech: What Should Your City Do if It’s Hit by Ransomware?</title>
+      <link>https://www.nytimes.com/2019/07/05/technology/cities-ransomware.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/05/technology/cities-ransomware.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/05/technology/cities-ransomware.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Taking a principled stand against hackers can be expensive, but paying a ransom could lead to more trouble.</description>
+      <dc:creator>Jamie Condliffe</dc:creator>
+      <pubDate>Mon, 08 Jul 2019 03:08:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Extortion and Blackmail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Blacklisting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Libra (Currency)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Huawei Technologies Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kudlow, Lawrence A</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ive, Jonathan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cook, Timothy D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baltimore (Md)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/07/05/business/05technewsletter02/05technewsletter02-moth.jpg" width="151"></media:content>
+      <media:credit>Alex Wroblewski/Getty Images</media:credit>
+      <media:description>Baltimore refused to pay a $75,000 ransom to hackers who locked down its computer systems. It will cost millions to restore them.</media:description>
+    </item>
+    <item>
+      <title>Amazon’s Deliveroo Investment Is Halted for U.K. Scrutiny</title>
+      <link>https://www.nytimes.com/2019/07/05/business/amazon-deliveroo-competition.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/07/05/business/amazon-deliveroo-competition.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/07/05/business/amazon-deliveroo-competition.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>A British regulator ordered that an Amazon-led cash infusion into the food-delivery start-up be paused to study whether it creates competition concerns.</description>
+      <dc:creator>Michael J. de la Merced</dc:creator>
+      <pubDate>Fri, 05 Jul 2019 19:24:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Delivery Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Deliveroo (Roofoods Ltd)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/07/05/business/05amazon/merlin_157506009_b431cede-312b-4c03-9dca-96c017ac7228-moth.jpg" width="151"></media:content>
+      <media:credit>Dan Kitwood/Getty Images</media:credit>
+      <media:description>A Deliveroo rider cycling through London. In May, Amazon announced that it would lead a $575 million investment round in the six-year-old company.</media:description>
+    </item>
+  </channel>
+</rss>
