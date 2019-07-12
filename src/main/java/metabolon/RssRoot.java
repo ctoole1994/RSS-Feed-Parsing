@@ -3,21 +3,21 @@ package metabolon;
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;
 
-
+/**
+ * This class represents the rss element for unmarshalling
+ *
+ * @author Connor Toole
+ * @version 1.0
+ * @since 2019-07-09
+ */
 @XmlRootElement(name = "rss")
 public class RssRoot {
 
+    /**
+     * The RssChannel object represents the channel element in the RSS spec. It is populated by unmarshalling
+     * a XML resource.
+     */
     private RssChannel channel;
-
-    private String company;
-
-    public String getCompany() {
-        return company;
-    }
-
-    public void setCompany(String company) {
-        this.company = company;
-    }
 
     @XmlElement(name = "channel")
     public RssChannel getChannel() {
@@ -31,8 +31,7 @@ public class RssRoot {
     @Override
     public String toString() {
         return "RssRoot{" +
-                "company='" + company + '\'' +
-                ", channel=" + channel +
+                "channel=" + channel +
                 '}';
     }
 }

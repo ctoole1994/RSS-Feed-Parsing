@@ -2,6 +2,13 @@ package metabolon;
 
 import javax.xml.bind.annotation.XmlRootElement;
 
+/**
+ * This class represents the RSS channel element for unmarshalling
+ *
+ * @author Connor Toole
+ * @version 1.0
+ * @since 2019-07-09
+ */
 @XmlRootElement(name = "channel")
 public class RssChannel {
 
