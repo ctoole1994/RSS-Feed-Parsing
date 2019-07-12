@@ -1,4 +1,4 @@
-package metabolon;
+package rss.dictionary.parsing;
 
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;

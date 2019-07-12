@@ -1,4 +1,4 @@
-package metabolon;
+package rss.dictionary.parsing;
 
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBException;

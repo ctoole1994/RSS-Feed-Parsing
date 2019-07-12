@@ -1,4 +1,4 @@
-import metabolon.RssDictionaryParser;
+import rss.dictionary.parsing.RssDictionaryParser;
 import org.junit.Test;
 
 import java.io.ByteArrayOutputStream;
